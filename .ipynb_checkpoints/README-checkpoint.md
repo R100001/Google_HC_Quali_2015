@@ -1,1 +1,0 @@
-# HashCodeQuali2015
